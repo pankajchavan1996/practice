@@ -1,3 +1,2 @@
 This file is created by feature branch on the remote repository.
-This line is added by feature-dev branch on remote repo
 This is line is added by master on remote repo
