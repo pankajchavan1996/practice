@@ -1,0 +1,6 @@
+git init
+ssh-keygen (to create ssh key)
+add this key onto the git repo
+
+git bash: git remote add origin sshlink
+(here origin is name of the ssh link)
